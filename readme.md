@@ -1,0 +1,1 @@
+Serverless redirector for hbapp.store -> hb-app.store URLs
